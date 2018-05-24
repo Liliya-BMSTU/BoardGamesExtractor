@@ -1,0 +1,53 @@
+﻿Possibly/perspectives:
+* поиск не ценовой! фильтр по ценам можно припилить, загрузив цены к найденным играм из прайса, но ПОСЛЕ полной разработки
+* ага, можно по ключевым словам найти в текстовом описании что-то типа "Игра Алана Муна", "Автор игры Алан Мун"... и написать правила
+
+ToDo:
+20180429 
+				* Manufacturers		// from search page		!!! before analyzing, the button 'Показать ещё' should be pressed... html?..
+				* Series			// from search page; => to update GameSeries.cs
+				* Tags over all games -- are they an open set?
+				* List of categories; categories of interest - for filtering (under development)
+					=> в топку Вархаммер и карточные коллекционные; если надо, запилим серией - антисрочно
+					* проверить, что товары, которые ищутся в разделе "детские товары" в части игр ищутся из недетского поиска
+					// ищутся, они собраны по тегу "детские игры"
+				* а есть ли теги типа "познавательная"? а что-то типа "эпоха" надо писать в миры и вводить (а есть ли?)
+				
+	* кажется, серии игр на сайте HobbyGames для универсальности сделали тегами... *facepalm*
+	* ага, на сайте нашёлся блок "Сюда подходят", и внутри ссылка "Товары серии" + внизу ссылка "Показать все",
+		где числовой ID серии. Значит, запилим словарь.
+	* из серии можно выбрать игру, но проверка, что это игра базовая, а не дополнение, требует надстройки доп.логики, оставим юзеру
+
+	-- To implement SetDictID() in GameSeries.cs (see SeriesIndexer.cs)
+	
+20180430		* To get the whole... dictionary of possible values of game params: (1) age range, (2) time range, (3) players number
+
+20180521		* Реализовать выкидывание не-игр, определенных как NotABoardGame. Эхма, там некоторые из них - это игры, 
+				* но старые и недоступные... И без уточнения параметров... Придётся отсматривать! ...И комплекты есть! Пффф, пусть комплекты юзер ищет сам
+
+Done:
+20180523 Ну, предположим, Git
+20180523 вычищено большинство неиспользуемых методов из файлов в Service\
+20180523 допилено раскидывание тегов по спискам: Категории, Серии, Тематика, Чёрный список, также проводится фильтрация игр по чёрному списку тегов (ролёвкам  и аксессуарам нет)
+20180523 как насчёт извлекать тематику при поиске по описанию?.. пират, зомби, апокалипсис, средневековье... посёрфить и вытаскивать (альфа есть, можно дописать)
+20180521 добавлен ManufacturersDictionary
+20180521 нашла способ определить, игра это или нет: автомат ломается, если не игра (нет тэгов игровых характеристик). Введено состояние NotABoardGame в автомате.
+20180521 нашла пару ошибок с индексами, пофикшено в автомате
+20180520 автомат пашет!!! без производителей и описания, но 0 ошибок!!
+20180518 GameFromHtml.cs consistently updated; most of the games are parsed; manufacturer section pending; there are Game params section issues: optional params found
+20180510 yep, that was the answer. 1722 games total.
+20180510 2 errors found in log... perhaps the missed games are exactly there?.. fantastic, <a class="name " href=" can appear <a class="name small " href=" // Search007 Search018
+20180510 Checked the links: the duplicates in games @search are actually duplicates! WTF, how do they range games?! The ascending order is stated explicitly: by time of adding!..?
+20180510 допилила в ForLists расширение DeDuplicatedAmount для int[] и List<int>, заюзала в GetHGGamePages()
+20180510 убедилась с помощью CheckGamesDir(), что в поиске есть дубликаты... больше сотни... либо поиск косячный, либо поиск с рекламой...
+20180509 добила GetHGGamesList() с автоматом
+20180508 (09 @4:37) добила GetHGManufList() в GettingHGPages.cs, почти финишная версия там же GetHGGamePages(), готово там же GetSearchPagesAmount
+20180508 в FileIO.cs добавила метод ReadAllLines
+20180505 Поменяла кодировку: UTF-8
+20180504 Я умею вытаскивать все поисковые страницы ^_^ Лежат чистые настолки и отдельно все игры в подпапке Search\AllGames incl Warh and CCG
+20180501 The 3 ranges are unified, RangeRoutines static class is created; automata in process
+20180430 PlayersRange added, conversion from strings in process for PlayersRange, AgeRange, TimeRange
+20180429 automata updated
+20180429 3D vector of <complexity(easy|hard), activity(move|think), planning(chance|tactics)>
+20180429 classes GameParams, TimeRange[Routines], AgeRange[Routines], GameSeries
+20180405 Created

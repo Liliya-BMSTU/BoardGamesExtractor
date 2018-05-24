@@ -1,0 +1,329 @@
+<!doctype html><html lang="ru" dir="ltr"><head><meta charset="UTF-8"><meta name="yandex-verification" content="770defcd0752cbc4" /><title>Ingenious Challenges | Купить настольную игру в магазинах Hobby Games</title><link href="https://hobbygames.ru/assets/img/store/icon.png" rel="icon" /><link rel="alternate" type="application/rss+xml" title="RSS" href="/news?rss"><link href="https://fonts.googleapis.com/css?family=Roboto:300,500|Ubuntu:400,700" rel="stylesheet"><link rel="stylesheet" type="text/css" href="https://hobbygames.ru/assets/css/style.css?v=480" media="screen" /><script src="https://hobbygames.ru/assets/js/checkout/lib/jquery-2.2.4.min.js?v=480"></script><script><!-- Google Tag Manager -->
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+    );var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5NXD2DQ');
+<!-- End Google Tag Manager --></script><meta name="description" content="Интернет-магазин Hobby Games. &quot;Ingenious Challenges&quot; по цене 1 205 ₽. Доставка по России." /><meta name="keywords" content="Ingenious Challenges купить настольная игра магазин москва"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"><meta name="format-detection" content="telephone=no"><link href="https://hobbygames.ru/ingenious-challenges" rel="canonical"><script type="text/javascript">
+    
+        
+    window.config = {
+        serverEnv: 'production',
+        currencyR: ' ₽',
+        currencyL: '',
+        phoneMask: '+7 (999) 999-99-99',
+        minProductPrice: 8,
+        maxProductPrice: 17000,
+        version: '480',
+        url: {
+            image: 'https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta',
+            order: 'https://hobbygames.ru/?route=lib/common/order',
+            orderCreated: 'https://hobbygames.ru/order-created',
+            kwSearch: 'https://hobbygames.ru/?route=catalog/search/keyword',
+            productsFeed: 'https://hobbygames.ru/?route=lib/feed/products',
+            blogsFeed: 'https://hobbygames.ru/?route=lib/feed/blogs',
+            remind: 'https://hobbygames.ru/?route=shoputils/instock_notice',
+            remindSubscribe: 'https://hobbygames.ru/?route=shoputils/instock_notice/subscribe',
+            productVideo: 'https://hobbygames.ru/?route=product/video/getList',
+            balloonSearch: 'https://hobbygames.ru/?route=lib/feed/balloon'
+        },
+        modules: {
+            retailRocket: {
+                partnerId: '541307031e994408504c61f3',
+                enable: '1'
+            },
+            dadata: {
+                serviceUrl: 'https://suggestions.dadata.ru/suggestions/api/4_1/rs',
+                token: 'c4c478a57c9443567a44aa9ad6c8dbf718179720',
+                kladr: '7700000000000',
+                count: 5
+            },
+            sailPlay: {
+                                auth_hash: '',
+                partner_id: '1639',
+                domain: '//sailplay.ru',
+                lang: 'ru',
+                data: {
+                    social: '',
+                    page: {
+                        about: '/bonus',
+                        logout: 'https://hobbygames.ru/logout'
+                    },
+                    urls: {
+                        get_wish_list: 'https://hobbygames.ru/?route=account/sailplay/upsale',
+                        get_recommend_list: 'https://hobbygames.ru/?route=account/sailplay/upsale',
+                        get_game_of_the_day: 'https://hobbygames.ru/?route=account/sailplay/game_of_day',
+                        update_profile: 'https://hobbygames.ru/?route=account/sailplay/update_profile',
+                        get_order_history: 'https://hobbygames.ru/?route=account/sailplay/orders_list',
+                        change_password: 'https://hobbygames.ru/?route=account/sailplay/password',
+                        upload_avatar: 'https://hobbygames.ru/?route=account/sailplay/avatar'
+                    }
+                }
+            }
+        },
+        listeners: {
+            "main": [],
+            "destination": [],
+            "delivery": [],
+            "contact": [],
+            "payment": [],
+            "order": []
+        }
+    };
+</script><script src="https://hobbygames.ru/assets/js/global.js"></script><meta property="og:type" content="website"><meta property="og:site_name" content="Hobby Games"><meta property="og:locale" content="ru_RU"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image:src" content="https://hobbygames.ru/assets/img/logopp2.png"><meta name="twitter:domain" content="hobbygames.ru"><meta name="theme-color" content="#fcc15f"><meta name="msapplication-navbutton-color" content="#fcc15f"><meta name="apple-mobile-web-app-status-bar-style" content="#fcc15f"><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><style>
+        .product-info .main-color,
+.product-info .product-info__block__tabs a.active {
+    color: #66B0CC;
+}
+.product-info .main-gradient,
+.product-info .tags .main-gradient,
+.product-info .main-background,
+.product-info .main-gradient .not-cart,
+.product-info__params .more-params__values span.selected:before {
+    background: #66B0CC;
+}
+.product-info .main-border {
+    border-color: #66B0CC;
+}
+    </style></head><body class=" product-info not-available " data-id="31694"><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NXD2DQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div class="product-info__background main-gradient"><div class="header-container"><div class="header-desktop"><div class="enter-line"><div class="container"><div class="row"><div class="city-name col-xs-5"><div><span class="js-openCityModal city-link"><span class="icon icon-location"></span><span class="underline-link">Москва</span></span></div><div class="navbar__item__city js-openCityModal"><div class="balloon"><div class="balloon__content"><div>Вы в городе <b>Москва</b>?</div><div class="btn-block"><div class="btn yes">Да</div><a class="no">Изменить</a></div></div></div></div></div><div class="header__info__item col-xs-7"><div class="enter"><span>Войдите, чтобы получать бонусы </span><a href="https://hobbygames.ru/login"
+                           class="js-openLoginModal enter-link"
+                           onclick="window.dataLayer = window.dataLayer || [];dataLayer.push({'event':'gtm-ga-event','gtm-ga-event-category':'Authorization-true','gtm-ga-event-action':'Open','gtm-ga-event-non-interaction': 'False'});"
+                        >Вход</a><a href="#"
+                           class="footer-btn js-openRegisterModal"
+                           onclick="window.dataLayer = window.dataLayer || [];dataLayer.push({'event':'gtm-ga-event','gtm-ga-event-category':'Registration-true','gtm-ga-event-action':'Open','gtm-ga-event-non-interaction': 'False'});"
+                        >Регистрация</a></div></div></div></div></div><div class="container inner"><header class="header new-header"><div class="row"><div class="col-xs-3 logo-inner"><a href="/" class="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 70"><g fill="#000"><path connector-curvature="0" d="m69.65 30.829l-16.979 9.791v19.582l16.979 9.791 16.936-9.791v-19.582l-16.936-9.791"/><path connector-curvature="0" d="m121.73 40.628l-16.951-9.791-16.965 9.791v19.582l16.965 9.791 16.951-9.791v-19.582"/><path connector-curvature="0" d="m139.92 30.829l-16.98 9.791v19.582l16.98 9.791 16.95-9.791v-19.582l-16.95-9.791"/><path connector-curvature="0" d="m192 40.628l-16.951-9.791-16.966 9.791v19.582l16.966 9.791 16.951-9.791v-19.582"/><path connector-curvature="0" d="m174.45 9.791l-16.95-9.791-16.965 9.791v19.582l16.965 9.791 16.95-9.791v-19.582"/><path connector-curvature="0" d="m122.36.003l-16.964 9.791v19.582l16.964 9.791 16.965-9.791v-19.582l-16.965-9.791"/><path connector-curvature="0" d="m87.23.003l-16.965 9.791v19.582l16.965 9.791 16.951-9.791v-19.582l-16.951-9.791"/></g><path d="m90.14 11.299c-.164.002-.332.012-.497.028h-9.133v3.515h1.112v9.612h-1.112v3.541h9.326c.568.015 1.135-.044 1.707-.189.568-.102 1.061-.274 1.455-.551.496-.438.847-1.01 1.066-1.681.219-.758.326-1.529.326-2.331v-.009c0-1.297-.238-2.23-.705-2.827-.394-.641-1.135-1.01-2.232-1.093v-.1c.364 0 .733-.075 1.039-.235.247-.102.48-.252.714-.469.321-.321.552-.784.668-1.337.132-.539.189-1.098.189-1.681 0-.772-.059-1.443-.189-1.996-.117-.553-.348-.983-.668-1.319-.423-.379-.936-.611-1.563-.713-.514-.109-1.01-.168-1.5-.162m-3.263 3.541h2.088v2.945h-2.088v-2.945m0 6.04h2.28v3.568h-2.28v-3.568" connector-curvature="0" fill="#fff"/><path connector-curvature="0" d="m52.09.003l-16.951 9.791v19.582l16.951 9.791 16.966-9.791v-19.582l-16.966-9.791" fill="#000"/><path connector-curvature="0" d="m33.916 9.791l-16.951-9.791-16.965 9.791v19.582l16.965 9.791 16.951-9.791v-19.582" fill="#fca10b"/><path d="m18.01 11.288h6.268v3.511h-1.064v9.601h1.064v3.541h-6.268v-6.688h-2.01v6.688h-6.239v-3.541h1.01v-9.601h-1.01v-3.511h6.239v6.352h2.01v-6.352" connector-curvature="0" fill="#000"/><g fill="#fff"><path d="m125.27 11.299c-.176.002-.36.012-.542.028h-9.07v3.515h1.103v9.612h-1.103v3.541h9.308c.627.015 1.223-.044 1.762-.189.526-.102 1.026-.274 1.464-.551.509-.438.868-1.01 1.057-1.681.175-.758.262-1.529.262-2.331.045-1.296-.16-2.239-.597-2.836-.393-.641-1.152-1.01-2.259-1.093v-.1c.365 0 .675-.075.966-.235.263-.102.496-.252.714-.469.351-.321.581-.784.668-1.337.16-.539.244-1.098.244-1.681 0-.772-.087-1.443-.244-1.996-.089-.553-.318-.983-.668-1.319-.379-.379-.892-.611-1.563-.713-.481-.109-.974-.168-1.5-.162m-3.263 3.541h2.096v2.945h-2.096v-2.945m0 6.04h2.313v3.568h-2.313v-3.568" connector-curvature="0"/><path d="m104.78 47.39h.06l2.448-5.55h7.04v3.555h-1.035v9.557h1.035v3.526h-5.99v-9.05h-.102l-2.609 6.221h-1.661l-2.609-6.221v9.05h-6.092v-3.526h1.135v-9.557h-1.135v-3.555h7.07l2.449 5.55" connector-curvature="0"/><path d="m134.23 45.39h-1.049v-3.555h13.03v5.639h-4.824v-2.083h-1.865v2.869h3.309v3.307h-3.309v3.381h1.865v-2.52h4.824v6.05h-13.03v-3.526h1.049v-9.557" connector-curvature="0"/><path d="m65.806 41.83l-2.422 13.12h-1.021v3.524h5.02l.886-4.408h2.774l.759 4.408h5.739v-3.524h-1.166l-2.639-13.12h-7.926m3.76 4.101h.091l.823 4.978h-1.672l.759-4.978" connector-curvature="0"/></g><path d="m51.47 40.628l-16.951-9.791-16.966 9.791v19.582l16.966 9.791 16.951-9.791v-19.582" connector-curvature="0" fill="#000"/><g fill="#fff"><path d="m159.1 11.254h5.131v3.511h-.946l-2.946 6.556v3.06h1.224v3.541h-8.307v-3.541h1.135v-2.739l-2.857-6.873h-.933v-3.511h5.392l1.384 5.231h.147l1.574-5.231" connector-curvature="0"/><path d="m49.966 11.322c-1.122 0-1.975.187-2.557.551-.554.408-.986.877-1.292 1.445-.176.524-.278 1.023-.307 1.517-.029.132-.027.257-.027.389v8.727c0 .962.191 1.726.57 2.294.349.568.781 1.01 1.319 1.283.568.306 1.226.46 1.97.46h4.88c.7 0 1.359-.155 1.943-.46.554-.277 1-.715 1.338-1.283.335-.568.515-1.333.515-2.294v-8.727c0-.641-.113-1.266-.362-1.906-.219-.568-.618-1.038-1.202-1.445-.656-.364-1.517-.551-2.566-.551h-4.22m1.076 3.515h2.051v9.612h-2.051v-9.612" connector-curvature="0"/></g><path d="m35.514 47.568v-2.185h-1.997v9.557h1.997v-2.695h-.992v-3.205h6.05v9.427h-8.234c-1.428 0-2.493-.38-3.178-1.108-.626-.772-.918-1.894-.875-3.308v-8.129c0-1.471.321-2.536 1.01-3.19.773-.641 1.866-.947 3.295-.904h7.987v5.741h-5.058" connector-curvature="0" fill="#fca10b"/><path d="m180.53 41.83v4.896h-4.14v-1.34h-2.041v2.958h2.609c.861-.059 1.603.029 2.231.248.569.233 1.02.626 1.341 1.166.306.451.465 1.122.465 2.039v2.579c.031 1.4-.292 2.433-.947 3.118-.598.684-1.589 1-2.945.977h-7.694v-5.056h4.329v1.53h2.04v-3.147h-3.09c-1.092 0-1.939-.306-2.565-.889-.612-.598-.918-1.486-.918-2.652v-2.869c0-.919.116-1.617.35-2.141.351-.525.802-.904 1.371-1.123.451-.204 1.01-.291 1.661-.291h7.942" connector-curvature="0" fill="#fff"/></svg></a></div><div class="col-xs-7 search-wrapper"><div class="search-links"><div class="delivery-address"><input name="current_region" type="hidden" value="1"><a href="https://hobbygames.ru/contacts"><div class="delivery-address__link">Адреса магазинов</div></a><a href="https://hobbygames.ru/dostavka"><div class="delivery-address__link">Доставка и оплата</div></a></div><div class="search-block"><div class="input--search"><form id="header__search__form" action="https://hobbygames.ru/catalog/search" method="get"><span class="icon icon-search search-btn"></span><a class="input--search__btn btn search-block__submit search-btn"><span class="text">Найти</span></a><input type="search" name="keyword" class="input" autocomplete="off" maxlength="60" value="" placeholder="Умный поиск"><table class="search__popup_head result"></table></form></div><!--noindex--><div class="search__example clearfix"><div class="games-links"><a href="https://hobbygames.ru/catalog/search?keyword=%D0%91%D0%B5%D1%80%D1%81%D0%B5%D1%80%D0%BA" rel="nofollow">берсерк</a><a href="https://hobbygames.ru/catalog/search?keyword=%D0%9A%D0%B0%D1%80%D0%BA%D0%B0%D1%81%D1%81%D0%BE%D0%BD" rel="nofollow">каркассон</a><a href="https://hobbygames.ru/catalog/search?keyword=%D0%98%D0%B3%D1%80%D0%B0+%D0%BF%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2" rel="nofollow">игра престолов</a></div></div><!--/noindex--></div></div></div><div class="col-xs-2 phone-cart"><div class="phone-cart__inner"><a href="tel:+7 (495) 540-43-46" class="phone"><div class="phone">+7 (495) 540-43-46</div></a><a href="#" rel="buy_one" class="callback call buy-one-item">Обратный звонок</a><div class="header__info__item" id="cart-popup"><a id="js-openCartModal" class="with-icon cart-status" style="pointer-events: none;"><span class="icon icon-basket-empty"></span><span class="cart-text">Корзина пуста</span></a></div></div></div><!--noindex--><div class="col-md-4 col-xs-12"><div class="header__info"></div></div><!--/noindex--></div></header></div></div></div><div class="container"><div class="breadcrumbs visible-last-arrow"><div class="row"><div class="col-md-8"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"  href="/"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"  href="https://hobbygames.ru/catalog-all"><span itemprop="name">Каталог</span></a><meta itemprop="position" content="2" /></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"  href="https://hobbygames.ru/nastolnie"><span itemprop="name">Настольные игры</span></a><meta itemprop="position" content="3" /></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"  href="https://hobbygames.ru/logicheskie-igri"><span itemprop="name">Логические игры</span></a><meta itemprop="position" content="4" /><span class="icon icon-arrow-down"></span></span></span><table class="breadcrumb__popup"><tr class="breadcrumb__popup__item"><td><span><a href="/" style="padding-left: 1.2em;"><span>Главная</span></a></span></td></tr><tr class="breadcrumb__popup__item"><td><span><a href="https://hobbygames.ru/catalog-all" style="padding-left: 2.4em;"><span>Каталог</span></a></span></td></tr><tr class="breadcrumb__popup__item"><td><span><a href="https://hobbygames.ru/nastolnie" style="padding-left: 3.6em;"><span>Настольные игры</span></a></span></td></tr><tr class="breadcrumb__popup__item"><td><span><a href="https://hobbygames.ru/logicheskie-igri" style="padding-left: 4.8em;"><span>Логические игры</span></a></span></td></tr></table></div></div></div><div class="row"><div class="col-md-8"><div class="product-info__main"><div class="product-info__main__head"><h1>Ingenious Challenges</h1><div class="desc"></div><div class="row"><div class="col-md-4 col-xs-6"><input type="hidden" class="rating" value="0" readonly="readonly"></div><div class="col-md-4 col-xs-6 social"><div data-services="vkontakte,facebook,odnoklassniki,gplus,twitter,telegram" class="ya-share2 with-shadow ya-share2-new"></div></div></div></div></div></div></div></div></div><div class="container main-container"><div class="row"><div class="col-md-8"><ul class="product-info__main__menu"><li><a href="#description" class="main-color">Описание</a></li><li><a href="#package" class="main-color">Комплектация</a></li><li><a href="#reviews" class="main-color">Отзывы</a></li><li><a href="#faq" class="main-color">Вопросы и ответы</a></li><li><a href="#manufacturers" class="main-color">Авторы и производитель</a></li></ul><div class="product-info__images"><div class="owl-carousel"><div class="image-item" data-index="0"><a rel="group" href="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/common/1/ingenious-challenges-1024x1024-wm.jpg"><img src="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/common/1/ingenious-challenges-1024x1024-wm.jpg" itemprop="image"></a></div><div class="image-item" data-index="1"><a rel="group" href="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/files/image/11059-1024x1024-wm.png"><img src="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/files/image/11059-1024x1024-wm.png" itemprop="image"></a></div></div><div class="hidden-sm-down"><div class="product-info__thumbs"><a data-index="0" class="active main-border"><span><img src="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/common/1/ingenious-challenges-100x100.jpg" itemprop="image"></span></a><a data-index="1" class="main-border"><span><img src="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/files/image/11059-100x100.png" itemprop="image"></span></a></div></div></div><div class="hidden-md-up"><div class="product-info__cart"><div class="product-info__cart__info"><div class="product-info__cart__info__price"><div class="price">1&nbsp;205&nbsp;₽</div></div><div class="product-info__cart__info__text">
+            Нет в наличии
+        </div><a href="#" class="btn remind js-openLoginModal"
+               data-id="31694">Уведомить о поступлении
+            </a><div class="product-info__cart__info__stock"><div class="qty-status "></div></div></div><div class="product-info__cart__bottom"><a href="#" class="wishlist main-color main-background-before">Добавить в избранное</a></div></div><div class="product-info__params"><div class="product-info__params__item"><div class="params"><div class="params__item"><div class="time" title="Время игры: от 30 до 45 минут"><div class="icon-10"></div><span>30-45<br>минут</span></div></div><div class="params__item"><div class="players"><div class="icon-group_full" title="Количество игроков:  от 2 до 4"></div><span>2-4<br>игроков</span></div></div><div class="params__item"><div class="age"><div class="icon-age" title="Возраст игроков: от 10 лет"></div><span>10+<br>лет</span></div></div></div></div><div class="product-info__params__item"><div class="more-params"><div class="more-params__left">Легко</div><div class="more-params__values"><span></span><span class="selected"></span><span></span><span></span><span></span></div><div class="more-params__right">Сложно</div></div><div class="more-params"><div class="more-params__left">Двигаться</div><div class="more-params__values"><span></span><span></span><span></span><span class="selected"></span><span></span></div><div class="more-params__right">Соображать</div></div><div class="more-params"><div class="more-params__left">Шанс</div><div class="more-params__values"><span></span><span></span><span class="selected"></span><span></span><span></span></div><div class="more-params__right">Расчет</div></div></div><div class="product-info__params__item"><div class="symbols"><a class="icons english" title="На английском"></a></div><div class="tags"><a class="main-gradient" href="https://hobbygames.ru/nastolnie">
+                        Настольные игры
+                    </a><a class="main-gradient" href="https://hobbygames.ru/kartochnie-nastolnie-igri">
+                        Карточные игры
+                    </a><a class="main-gradient" href="https://hobbygames.ru/logicheskie-igri">
+                        Логические игры
+                    </a><a class="main-gradient" href="https://hobbygames.ru/semejnie-igri">
+                        Семейные игры
+                    </a></div></div></div></div><div class="product-info__fix-nav main-gradient"><div class="container"><div class="row"><div class="col-md-1"></div><div class="col-md-7"><div class="h1">Ingenious Challenges</div></div></div><div class="row"><div class="col-md-1 col-xs-7"><a href="#" onclick="$('html,body').animate({scrollTop: 0}, 500); return false;" class="product-info__fix-nav__up main-color"><span class="icon icon-arrow-up"></span><span>Наверх</span></a></div><div class="col-md-8"><div class="product-info__fix-nav__menu hidden-xs-down"><ul class="nav"><li><a href="#description" class="main-color">Описание</a></li><li><a href="#package" data-spy="scroll" class="main-color">Комплектация</a></li><li><a href="#reviews" class="main-color">Отзывы</a></li><li><a href="#faq" class="main-color">Вопросы и ответы</a></li><li><a href="#manufacturers" class="main-color">Авторы и производитель</a></li></ul></div></div></div></div></div><div class="product-info__main"><div class="h2" id="description">Описание</div><div class="desc-text" id="desc"><p style="text-align:justify">
+	В данный набор от Fantasy Flight Games входят три настольные игры, созданные по мотивам известной во всем мире Ingenious Райнера Книции. В каждой из представленных игр игрокам будет необходимо набирать очки в шести цветах, для этого они должны выстраивать комбинации из элементов одного цвета.</p><div class="h3">Три игры</div><p style="text-align:justify">
+	В <span style="font-weight:bold">Card Challenge</span> участники играют с руки карты с цветными символами. За каждый цвет на карте игрок получает столько очков, сколько раз он встречается на открытых картах других игроков.</p><p style="text-align:justify">
+	В <span style="font-weight:bold">Dice Challenge</span> игрок кидает кубики, пытаясь выбросить на них те же цвета, что есть у противников. Дубль на кубиках расценивается как джокер — продвижение на одно очко в любом цвете.</p><p style="text-align:justify">
+	В <span style="font-weight:bold">Tile Challenge</span> игроки переворачивают лицом вверх шестиугольные плитки, стремясь найти идентичные уже открытым.</p><div class="h3">Что же общего?</div><p style="text-align:justify">
+	Счётчики очков и маркеры — общие для всех трёх игр. В отличие от оригинальной Ingenious, счётчики разделены на четыре зоны: 0, 1-3, 4-6 и 7-10 очков. Все маркеры игрока должны находиться в двух соседних зонах: он не может получить 7 очков в одном цвете, пока хотя бы один его маркер остаётся в зоне 1-3.<br />
+	&nbsp;</p><p style="text-align: center;"><img alt="" border="0" hspace="0" src="/image/files/11058/card-fan-ingenious-challenges.png" title="" /></p></div><div id="package"><div class="h2">Комплектация</div><div class="desc-text collapsed" id="pack"><ul><li>
+		60 карт</li><li>
+		9 кубиков</li><li>
+		126 шестиугольных плиток</li><li>
+		4 счётчика очков</li><li>
+		24 маркера (4 комплекта по 6 цветов)</li><li>
+		1 правила игры</li><li>
+		Размер карт 57x89 мм.</li></ul></div><a href="#pack" class="main-color desc-more">
+                            Показать ещё<span class="icon-triangle-down"></span></a></div></div><div class="product-info__main" id="reviews"></div><div class="product-info__main" id="faq"></div><div class="product-info__main"><div class="h2" id="manufacturers">Авторы и производитель</div><div class="manufacturers"><div class="row"><div class="col-md-3 col-xs-6"><div class="manufacturers__label">Год выпуска:</div><div class="manufacturers__value main-color">
+                                2011
+                            </div></div><div class="col-md-3 col-xs-6"><div class="manufacturers__label">Автор</div><div class="manufacturers__value main-color">
+                                                                    Райнер Книзиа
+                                                            </div></div><div class="col-md-3 col-xs-6"><div class="manufacturers__label">Производитель</div><a href="https://hobbygames.ru/fantasy-flight-games" class="manufacturers__value main-color">Fantasy Flight Games</a></div><div class="col-md-3 col-xs-6"><a href="https://hobbygames.ru/fantasy-flight-games"><img src="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/hobbygames/manufacturer/ff-80x80.jpg"
+                                             alt="Fantasy Flight Games"
+                                             title="Fantasy Flight Games"></a></div></div></div></div></div><div class="col-md-4"><div class="product-info__cart hidden-sm-down"><div class="product-info__cart__info"><div class="product-info__cart__info__price"><div class="price">1&nbsp;205&nbsp;₽</div></div><div class="product-info__cart__info__text">
+            Нет в наличии
+        </div><a href="#" class="btn remind js-openLoginModal"
+               data-id="31694">Уведомить о поступлении
+            </a><div class="product-info__cart__info__stock"><div class="qty-status "></div></div></div><div class="product-info__cart__bottom"><a href="#" class="wishlist main-color main-background-before">Добавить в избранное</a></div></div><div class="product-info__params hidden-sm-down"><div class="product-info__params__item"><div class="params"><div class="params__item"><div class="time" title="Время игры: от 30 до 45 минут"><div class="icon-10"></div><span>30-45<br>минут</span></div></div><div class="params__item"><div class="players"><div class="icon-group_full" title="Количество игроков:  от 2 до 4"></div><span>2-4<br>игроков</span></div></div><div class="params__item"><div class="age"><div class="icon-age" title="Возраст игроков: от 10 лет"></div><span>10+<br>лет</span></div></div></div></div><div class="product-info__params__item"><div class="more-params"><div class="more-params__left">Легко</div><div class="more-params__values"><span></span><span class="selected"></span><span></span><span></span><span></span></div><div class="more-params__right">Сложно</div></div><div class="more-params"><div class="more-params__left">Двигаться</div><div class="more-params__values"><span></span><span></span><span></span><span class="selected"></span><span></span></div><div class="more-params__right">Соображать</div></div><div class="more-params"><div class="more-params__left">Шанс</div><div class="more-params__values"><span></span><span></span><span class="selected"></span><span></span><span></span></div><div class="more-params__right">Расчет</div></div></div><div class="product-info__params__item"><div class="symbols"><a class="icons english" title="На английском"></a></div><div class="tags"><a class="main-gradient" href="https://hobbygames.ru/nastolnie">
+                        Настольные игры
+                    </a><a class="main-gradient" href="https://hobbygames.ru/kartochnie-nastolnie-igri">
+                        Карточные игры
+                    </a><a class="main-gradient" href="https://hobbygames.ru/logicheskie-igri">
+                        Логические игры
+                    </a><a class="main-gradient" href="https://hobbygames.ru/semejnie-igri">
+                        Семейные игры
+                    </a></div></div></div><!--noindex--><div class="product-info__related"><div id="retail-rocket" class="product-info__block main-border"><div class="product-info__block__title">Рекомендуемые</div><div class="product-item-mini"><div class="row"><div class="col-md-5 col-xs-5"><div class="image"><a href="https://hobbygames.ru/varene"><img src="https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/tovar/17062011/varen-115x115.jpg"></a></div></div><div class="col-md-7 col-xs-7"><a href="https://hobbygames.ru/varene" class="name"><span>Варенье</span></a><div class="buttons product-cart"><a href="https://hobbygames.ru/zakaz" class="btn  main-background to-cart disabled"
+           data-id="32164"><span class="in-cart text hidden"><span>Оформить заказ</span></span><span class="not-cart text "><span class="icon icon-cart"></span><span class="price">
+                    830&nbsp;₽
+                </span></span></a></div></div></div></div></div><script>
+        $(document).ready(function() {
+            var btnSelector = '.product-cart .to-cart';
+            $(btnSelector).removeClass('disabled');
+            $('#retail-rocket .product-item-mini .image a, #retail-rocket .product-item-mini a.name').click(function() {
+                try {
+                    var product_id = $(this).closest('.product-item-mini').find('.product-cart a.to-cart').data('id');
+                    rrApi.recomMouseDown(product_id, 'alternative recommendation');
+                    console.log('RetailRocket:recomMouseDown')
+                } catch (e) {
+                    console.error(e);
+                }
+            });
+
+            $('#retail-rocket .product-item-mini .product-cart').click(function(){
+                try {
+                    var product_id = $(this).find('a.to-cart').data('id');
+                    rrApi.recomAddToCart(product_id, 'alternative recommendation');
+                    ga&&ga('send', 'event', 'CLICK', 'RR');
+                    console.log('RetailRocket:recomAddToCart')
+                } catch (e) {
+                    console.error(e);
+                }
+            });
+        });
+    </script></div><!--/noindex--></div></div></div><footer class="footer"><div class="container"><div class="row"><div class="col-md-10 offset-md-1"><div class="footer__search"><div class="search-block short"><div class="input--search"><form id="header__search__form" action="https://hobbygames.ru/catalog/search" method="get"><a class="search-block__submit search-btn"><span class="icon icon-search"></span></a><input type="search" name="keyword" class="input" autocomplete="off" value=""></form></div></div></div><div class="footer__navigation"><div class="row"><div class="col-md-12 col-xs-12"><nav class="footer__menu"><div class="row"><div class="col-lg-2 col-sm-6 col-xs-6"><ul><li><a href="/catalog-all">Каталог</a></li><li><a href="/discounts">Акции</a></li><li><a href="https://hobbygames.ru/franchising">Франчайзинг</a></li><li><a href="https://hobbygames.ru/wholesale">Игры оптом</a></li><li><a href="https://hobbygames.ru/?route=information/infopages/vacancies">Работа у нас</a></li><li><a href="https://hobbygames.ru/news">Новости</a></li></ul></div><div class="col-lg-2 col-sm-6 col-xs-6"><ul><li><a href="https://hobbygames.ru/contacts">Контакты</a></li><li><a href="https://hobbygames.ru/?route=information/infopages/about">О магазине</a></li><li><a href="/dostavka">Доставка и оплата</a></li><li><a href="/politika-konfidencialnosti">Политика конфиденциальности</a></li><li><a href="/publichnaja-oferta">Публичная оферта</a></li></ul></div><div class="col-md-3 col-xs-4"><ul><li><a href="https://hobbygames.ru/?route=information/help">Помощь</a></li><li><a href="#" class="js-openMainFeedBackModal">Задать вопрос по правилам</a></li><li><a href="/catalog-all">Подобрать игру</a></li></ul></div><div class="col-md-2 col-xs-4"><div class="footer__social"><ul><li><a href="https://vk.com/hobbygames_moskva" target="_blank"><span class="icon icon-vk"></span><span class="text">Вконтакте</span></a></li><li><a href="https://www.facebook.com/hobbygames.ru" target="_blank"><span class="icon icon-facebook"></span><span class="text">Facebook</span></a></li><li><a href="https://twitter.com/HobbyGames" target="_blank"><span class="icon icon-twitter"></span><span class="text">Twitter</span></a></li><li><a href="https://plus.google.com/+HobbygamesRu_main" target="_blank"><span class="icon icon-google-plus"></span><span class="text">Google+</span></a></li></ul></div></div><div class="col-md-2 col-xs-4"><div class="footer__menu__last"><ul style="border: none"><li><a href="https://hobbyworld.ru/" target="_blank">HobbyWorld</a></li><li><a href="http://igrokon.org/" target="_blank">Igrokon</a></li><li><a href="http://warforge.ru" target="_blank">Warforge</a></li><li><a href="http://berserk.ru/" target="_blank">BerserK</a></li><li><a href="http://spyfall.ru/" target="_blank">Spyfall</a></li><li><a href="https://crowdrepublic.ru/" target="_blank">CrowdRepublic</a></li></ul></div></div></div></nav></div></div></div><div class="footer__stocks"><div class="row"><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/akademicheskaya" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content="+7 (495) 540-43-46"><span class="name">Магазин на "Академической"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content="117292"><span class="address" itemprop="streetAddress">ул. Дмитрия Ульянова, д. 16, корп. 1
+<style type="text/css"></style></span></span><span class="worktime"><div>
+	10:00 - 21:00</div><div>
+	Без перерывов и выходных&nbsp;</div></span></a></div><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/magazin_na_alekseevskoj" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content="+7 (495) 540-43-46"><span class="name">Магазин на "Алексеевской"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content="129626"><span class="address" itemprop="streetAddress">ул. Староалексеевская, д. 8, офис № 1</span></span><span class="worktime"><div>
+	10:00 - 21:00</div><div>
+	Без перерывов и выходных</div><div>
+	&nbsp;</div></span></a></div><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/baumanskaya" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content="+7 (495) 540-43-46"><span class="name">Магазин на "Бауманской"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content="105005"><span class="address" itemprop="streetAddress">ул. Ладожская, д. 7а</span></span><span class="worktime"><div>
+	10:00 - 21:00</div><div>
+	Без перерывов и выходных&nbsp;</div></span></a></div><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/magazin_na_lubyanke" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content="+7 (495) 540-43-46"><span class="name">Магазин на "Лубянке"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content="101000"><span class="address" itemprop="streetAddress">ул. Мясницкая, д. 5/12 </span></span><span class="worktime"><div>
+	Пн.-Пт.: с 11:00 - 20:00</div><div>
+	Сб.: 11:00 - 19:00</div><div>
+	Вс. - выходной</div></span></a></div></div><div class="row"><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/magazin_na_sokole" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content="+7 (495) 540-43-46"><span class="name">Магазин на "Соколе"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content="125315"><span class="address" itemprop="streetAddress">Ленинградский проспект, д. 78, корп.1</span></span><span class="worktime"><div>
+	10:00 - 21:00</div><div>
+	Без перерывов и выходных&nbsp;</div></span></a></div><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/polezhaevskaya" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content="+7 (495) 540-43-46"><span class="name">Магазин на "Полежаевской"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content="123007"><span class="address" itemprop="streetAddress">Хорошевское шоссе, д. 82
+<style type="text/css"></style></span></span><span class="worktime"><div>
+	10:00 - 21:00</div><div>
+	Без перерывов и выходных&nbsp;</div><div>
+	&nbsp;</div></span></a></div><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/varshavskaya" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content="+7 (495) 540-43-46"><span class="name">Магазин на "Варшавской"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content="117556"><span class="address" itemprop="streetAddress">Чонгарский бульвар, д. 8, корп. 1</span></span><span class="worktime"><div>
+	10:00 - 21:00</div><div>
+	Без перерывов и выходных</div></span></a></div><div class="col-md-3 col-sm-6 col-xs-12"><a href="https://hobbygames.ru/kuntsevo" class="item" itemscope itemtype="http://schema.org/LocalBusiness"><meta itemprop="name" content="Hobby Games"><meta itemprop="telephone" content=" +7 (925) 864-32-43"><span class="name">Магазин на "Молодежной"</span><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Москва"><meta itemprop="postalCode" content=""><span class="address" itemprop="streetAddress">ул. Ярцевская, д. 19,<br />
+ТЦ Кунцево Плаза, 4 этаж</span></span><span class="worktime">с 09:00 до 22:00. Без перерывов и выходных. </span></a></div></div></div><div class="footer__copyright"><div class="row"><div class="col-md-2 col-sm-3"><div class="footer__logo"><a href="/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 70"><g fill="#fff"><path d="m69.65 30.828l-16.98 9.791v19.582l16.98 9.791 16.936-9.791v-19.582l-16.936-9.791m-3.846 11h7.924l2.639 13.12h1.166v3.523h-5.738l-.758-4.408h-2.773l-.887 4.408h-5.02v-3.523h1.021l2.422-13.12m3.758 4.1l-.758 4.979h1.672l-.822-4.979h-.092"/><path d="m104.78 30.836l-16.963 9.791v19.582l16.963 9.791 16.951-9.791v-19.582l-16.951-9.791m-9.514 11h7.07l2.449 5.551h.061l2.447-5.551h7.04v3.557h-1.035v9.557h1.035v3.525h-5.99v-9.05h-.104l-2.609 6.221h-1.66l-2.609-6.221v9.05h-6.092v-3.525h1.135v-9.557h-1.135v-3.557"/><path d="m139.93 30.828l-16.98 9.791v19.582l16.98 9.791 16.949-9.791v-19.582l-16.949-9.791m-6.746 11.01h13.03v5.639h-4.824v-2.084h-1.865v2.869h3.309v3.307h-3.309v3.381h1.865v-2.52h4.824v6.05h-13.03v-3.525h1.051v-9.557-.002h-1.051v-3.555"/><path d="m175.05 30.836l-16.965 9.791v19.582l16.965 9.791 16.951-9.791v-19.582l-16.951-9.791m-2.465 10.994h7.943.002v4.896h-4.139v-1.342h-2.041v2.959h2.609c.861-.059 1.603.029 2.23.248.569.233 1.019.626 1.34 1.166.306.451.465 1.122.465 2.039v2.578c.031 1.4-.29 2.432-.945 3.117-.598.684-1.589 1-2.945.977h-7.695v-5.05h4.33v1.529h2.039v-3.146h-3.09c-1.092 0-1.94-.308-2.566-.891-.612-.598-.918-1.484-.918-2.65v-2.869c0-.919.116-1.619.35-2.143.351-.525.802-.902 1.371-1.121.451-.204 1.01-.293 1.66-.293z"/><path d="m157.5 0l-16.965 9.791v19.582l16.965 9.791 16.951-9.791v-19.582l-16.951-9.791m1.602 11.254h5.131v3.512h-.945l-2.947 6.557v3.059h1.225v3.541h-8.307v-3.541h1.135v-2.738l-2.857-6.873h-.932v-3.512h5.391l1.385 5.23h.146l1.574-5.23.002-.004z"/><path d="m122.36.004l-16.965 9.791v19.58l16.965 9.791 16.965-9.791v-19.58l-16.965-9.791m2.902 11.295h.002c.525-.005 1.018.053 1.498.162.67.102 1.184.336 1.563.715.35.336.579.765.668 1.318.157.553.246 1.224.246 1.996 0 .583-.086 1.141-.246 1.68-.087.553-.317 1.017-.668 1.338-.217.218-.45.367-.713.469-.291.16-.601.236-.967.236v.1c1.107.087 1.866.453 2.26 1.094.437.598.641 1.54.596 2.836 0 .802-.087 1.573-.262 2.33-.19.67-.548 1.244-1.057 1.682-.437.277-.939.449-1.465.551-.539.145-1.135.204-1.762.189h-9.307v-3.541h1.102v-9.611h-1.102v-3.516h9.07c.182-.015.366-.025.541-.027m-3.262 3.541v2.945h2.096v-2.945h-2.096m0 6.04v3.566h2.313v-3.566h-2.313"/><path d="m87.23.004l-16.965 9.791v19.58l16.965 9.791 16.951-9.791v-19.58l-16.951-9.791m2.916 11.295h.002c.494-.006.986.053 1.5.162.627.102 1.141.334 1.564.713.32.336.551.767.668 1.32.13.553.189 1.224.189 1.996 0 .583-.058 1.141-.189 1.68-.116.553-.347 1.017-.668 1.338-.234.218-.468.367-.715.469-.306.16-.675.236-1.039.236v.1c1.097.087 1.839.451 2.232 1.092.466.598.705 1.531.705 2.828v.001c0 .802-.107 1.573-.326 2.33-.219.67-.571 1.244-1.066 1.682-.394.277-.887.449-1.455.551-.573.145-1.139.204-1.707.189h-9.326v-3.541h1.111v-9.611h-1.111v-3.516h9.133c.164-.015.334-.025.498-.027m-3.26 3.541v2.945h2.088v-2.945h-2.088m0 6.04v3.568h2.279v-3.568h-2.279"/><path d="m52.09.004l-16.951 9.791v19.58l16.951 9.791 16.965-9.791v-19.58l-16.965-9.791m-2.125 11.318h.002 4.219c1.049 0 1.911.187 2.566.551.583.407.982.877 1.201 1.445.248.641.363 1.265.363 1.906v8.727c0 .962-.181 1.727-.516 2.295-.335.568-.784 1.01-1.338 1.283-.584.305-1.243.459-1.943.459h-4.879c-.743 0-1.402-.153-1.971-.459-.539-.277-.969-.715-1.318-1.283-.379-.568-.57-1.333-.57-2.295v-8.727c0-.132-.002-.257.027-.389.03-.494.133-.994.309-1.518.306-.568.737-1.037 1.291-1.445.582-.364 1.436-.551 2.557-.551m1.076 3.514v9.611h2.051v-9.611h-2.051"/><path d="m16.965 0l-16.965 9.791v19.582l16.965 9.791 16.951-9.791v-19.582l-16.951-9.791m-7.199 11.287h6.238v6.354h2.01v-6.354h6.27v3.512h-1.064v9.602h1.064v3.541h-6.27v-6.688h-2.01v6.688h-6.238v-3.541h1v-9.602h-1v-3.512z"/><path d="m34.516 30.836l-16.967 9.791v19.582l16.967 9.791 16.949-9.791v-19.582l-16.949-9.791m-1.932 10.992h7.986v5.74h-5.057v-2.186h-1.996v9.557h1.996v-2.693h-.99v-3.205h6.05v9.426h-8.234c-1.428 0-2.492-.379-3.178-1.107-.626-.772-.918-1.894-.875-3.309v-8.129c0-1.471.322-2.537 1.01-3.191.773-.641 1.867-.945 3.295-.902"/></g></svg></a></div></div><div class="col-md-10 col-sm-9"><div class="footer__copyright__text"><p style="text-align: center"><span style="font-size: 14px;">Копирование материалов разрешено только по согласию администрации</span></p><p style="text-align: center"><span style="font-size: 14px;">Содержимое сайта не является публичной офертой</span></p></div></div></div></div></div></div></div></footer><div class="global-loader"><div class="animation"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><script>
+    function fastBuyDialogOpenTrigger(with_product, from_category) {
+        if (with_product) {
+            window.dataLayer = window.dataLayer || [];
+            dataLayer.push({
+                'event': 'gtm-ga-event',
+                'gtm-ga-event-category': '1-Click-Order',
+                'gtm-ga-event-action': 'Open',
+                'gtm-ga-event-label': from_category ? 'Product-category' : 'Detail',
+                'gtm-ga-event-non-interaction': 'False'
+            });
+        } else {
+            window.dataLayer = window.dataLayer || [];
+            dataLayer.push({
+                'event': 'gtm-ga-event',
+                'gtm-ga-event-category': 'Back-call',
+                'gtm-ga-event-action': 'Open',
+                'gtm-ga-event-non-interaction': 'False'
+            });
+        }
+    }
+</script><script  type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    dataLayer.push({
+        'ecommerce': {
+            'currencyCode': 'RUB',
+            'detail': {
+                'products': [
+                    {
+                        'name':  'Ingenious\u0020Challenges',
+                        'id':    '31694',
+                        'price': '1205',
+                        'brand': 'Fantasy\u0020Flight\u0020Games'
+                    }
+                ]
+            }
+        },
+                'dimension1': '31694',
+        'dimension2': 'product',
+        'dimension3': '1205',
+        'event': 'gtm-ee-event',
+        'gtm-ee-event-category': 'Enhanced Ecommerce',
+        'gtm-ee-event-action': 'Product Details',
+        'gtm-ee-event-non-interaction': 'True'
+    });
+
+    $('.product-item-mini').on('click', '.image a, a.name', function (e) {
+        var item = $(this).parents('.product-item-mini');
+
+        dataLayer.push({
+            'ecommerce': {
+                'currencyCode': 'RUB',
+                'click': {
+                    'actionField':
+                        {
+                            'list': 'Kross-sale-category'
+                        }
+                    ,
+                    'products': [
+                        {
+                            'name'    : item.find('a.name').attr('title'),
+                            'id'      : item.data('product_id'),
+                            'price'   : item.data('price'),
+                            'brand'   : item.data('brand'),
+                            'position': parseInt($(item).index()) + 1
+                        }
+                    ]
+                }
+            },
+                        'event': 'gtm-ee-event',
+            'gtm-ee-event-category': 'Enhanced Ecommerce',
+            'gtm-ee-event-action': 'Product Clicks',
+            'gtm-ee-event-non-interaction': 'False'
+        });
+    });
+</script><script type="text/javascript">
+                
+    var rrPartnerId = "541307031e994408504c61f3";
+    var rrApi = {};
+    var rrApiOnReady = rrApiOnReady || [];
+    rrApi.addToBasket = rrApi.order = rrApi.categoryView = rrApi.view = rrApi.recomMouseDown = rrApi.recomAddToCart = function () {};
+
+    (function (d) {
+        var ref = d.getElementsByTagName('script')[0];
+        var apiJs, apiJsId = 'rrApi-jssdk';
+        if (d.getElementById(apiJsId)) return;
+        apiJs = d.createElement('script');
+        apiJs.id = apiJsId;
+        apiJs.async = true;
+        apiJs.src = "//cdn.retailrocket.ru/content/javascript/tracking.js";
+
+        
+        ref.parentNode.insertBefore(apiJs, ref);
+    }(document));
+</script><script type="text/javascript">
+                
+                                                                                                                                                                                                                                                                                                                    
+    (window["rrApiOnReady"] = window["rrApiOnReady"] || []).push(function() {
+        retailrocket.products.post({
+            "id": 31694,
+            "name": "Ingenious\u0020Challenges",
+            "price": 1205,
+            "pictureUrl": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/common/1/ingenious-challenges-209x273.jpg",
+            "url": "https://hobbygames.ru/ingenious-challenges",
+            "categoryPaths": ["\u041D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u044B\u0435\u0020\u0438\u0433\u0440\u044B","\u041D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u044B\u0435\u0020\u0438\u0433\u0440\u044B\/\u041A\u0430\u0440\u0442\u043E\u0447\u043D\u044B\u0435\u0020\u0438\u0433\u0440\u044B","\u041D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u044B\u0435\u0020\u0438\u0433\u0440\u044B\/\u041B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0435\u0020\u0438\u0433\u0440\u044B","\u041D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u044B\u0435\u0020\u0438\u0433\u0440\u044B\/\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0435\u0020\u0438\u0433\u0440\u044B",""],
+            "isAvailable": false,
+            "stockId": 1,
+                        "vendor": "Fantasy\u0020Flight\u0020Games",
+            "description": "\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u002D\u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0020Hobby\u0020Games.\u0020\u0026quot\u003BIngenious\u0020Challenges\u0026quot\u003B\u0020\u043F\u043E\u0020\u0446\u0435\u043D\u0435\u00201\u0020205\u0020\u20BD.\u0020\u0414\u043E\u0441\u0442\u0430\u0432\u043A\u0430\u0020\u043F\u043E\u0020\u0420\u043E\u0441\u0441\u0438\u0438."
+        });
+
+        rrApi.view(31694);
+    });
+</script><!--LiveInternet counter--><script><!--
+    new Image().src = "//counter.yadro.ru/hit?r" +
+            escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+            ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+            ";" + Math.random();//--></script><!--/LiveInternet--><script type="text/javascript">
+    (function () {
+        var id = "admitad-retag";
+        if (document.getElementById(id)) {return;}
+        var s = document.createElement("script");
+        s.async = true; s.id = id;
+        var r = (new Date).getDate();
+        s.src = (document.location.protocol == "https:" ? "https:" : "http:") + "//cdn.lenmit.com/static/js/retag.js?r="+r;
+        var a = document.getElementsByTagName("script")[0]
+        a.parentNode.insertBefore(s, a);
+    })()
+</script><script type="text/javascript">
+    window.ad_product = {
+        "id": "31694",
+        "vendor": "Fantasy\u0020Flight\u0020Games",
+        "price": "1205",
+        "url": "https://hobbygames.ru/ingenious-challenges",
+        "picture": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/common/1/ingenious-challenges-1024x1024-wm.jpg",
+        "name": "Ingenious\u0020Challenges",
+        "category": "28758"
+    };
+
+    window._retag = window._retag || [];
+    window._retag.push({code: "9ce88847ac", level: 2});
+</script><script data-main="https://hobbygames.ru/assets/js/checkout/boot" src="https://hobbygames.ru/assets/js/checkout/lib/requirejs/require.js" async></script><script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script><script src="//yastatic.net/share2/share.js"></script></div></body></html>
